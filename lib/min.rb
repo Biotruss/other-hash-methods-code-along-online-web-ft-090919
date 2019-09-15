@@ -9,5 +9,5 @@ groceries = {
 }
 
 def get_the_min(groceries)
-groceries.key.f;atten
+groceries.key.flatten.min
 end
